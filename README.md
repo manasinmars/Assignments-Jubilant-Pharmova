@@ -1,5 +1,28 @@
 
 ---
+# Repository structure 
+
+Assignments-Jubilant-Pharmova/
+│
+├── Assignment1/
+│   ├── code/
+│   │   ├── Assignment-1 Code.ipynb
+│   │   └── Store Sales Analysis & Prediction.pdf
+│   │
+│   ├── dataset/
+│      └── sales_data.csv
+│  
+├── Assignment2/
+│   ├── code/
+│   │   ├── Assignment-2 code.ipynb
+│   │   └── Simple_policy_q&a.pdf
+│   │
+│   ├── dataset/
+│       ├── leave_policy.txt
+│       ├── it_policy.txt
+│       └── travel_policy.txt
+│
+└── README.md
 
 # 🧠 Assignment 1 – Store Sales Analysis & Prediction
 
