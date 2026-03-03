@@ -10,9 +10,7 @@ Assignments-Jubilant-Pharmova/
 │   │   └── Store Sales Analysis & Prediction.pdf
 │   │
 │   ├── Dataset/
-│   │   └── sales_data.csv
-│   │
-│   └── README.md
+│       └── sales_data.csv
 │
 ├── Assignment2/
 │   ├── Code/
@@ -20,11 +18,9 @@ Assignments-Jubilant-Pharmova/
 │   │   └── Simple_policy_q&a.pdf
 │   │
 │   ├── Dataset/
-│   │   ├── leave_policy.txt
-│   │   ├── it_policy.txt
-│   │   └── travel_policy.txt
-│   │
-│   └── README.md
+│       ├── leave_policy.txt
+│       ├── it_policy.txt
+│       └── travel_policy.txt
 │
 └── README.md
 ```
