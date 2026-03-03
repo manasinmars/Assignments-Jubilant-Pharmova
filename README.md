@@ -1,6 +1,33 @@
 
 ---
 
+```
+Assignments-Jubilant-Pharmova/
+│
+├── Assignment1/
+│   ├── Code/
+│   │   ├── Assignment-1 Code.ipynb
+│   │   └── Store Sales Analysis & Prediction.pdf
+│   │
+│   ├── Dataset/
+│   │   └── sales_data.csv
+│   │
+│   └── README.md
+│
+├── Assignment2/
+│   ├── Code/
+│   │   ├── Assignment-2 code.ipynb
+│   │   └── Simple_policy_q&a.pdf
+│   │
+│   ├── Dataset/
+│   │   ├── leave_policy.txt
+│   │   ├── it_policy.txt
+│   │   └── travel_policy.txt
+│   │
+│   └── README.md
+│
+└── README.md
+```
 # 🧠 Assignment 1 – Store Sales Analysis & Prediction
 
 ## 🎯 Objective
